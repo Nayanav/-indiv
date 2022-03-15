@@ -1,3 +1,8 @@
 ## Nayana's GitHub Page 
 
-[Click me](http://www.google.com){: .btn}
+<a href="http://stackoverflow.com"><button>Link Text</button></a>
+
+.gitbutton {
+}
+
+{% include button.html button_name="My Button" button_class="primary" %}
