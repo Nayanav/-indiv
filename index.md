@@ -1,8 +1,9 @@
 ## Nayana's GitHub Page 
 
-<a href="http://stackoverflow.com"><button>Link Text</button></a>
-
-.gitbutton {
-}
-
-{% include button.html button_name="My Button" button_class="primary" %}
+<table>
+     <tr>
+         <td><a href=".">Home</a></td>
+         <td><a href="code">Code</a></td>
+         <td><a href="notes">CB Notes</a></td>
+     </tr>
+ </table>
