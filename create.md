@@ -1,3 +1,5 @@
+{include navigation.html}
+
 ## Program overview: 
 
 This program will portray vacation suggestions based on your age and personality type. There are many different personality types that can cause conflict within each other. It is important in this day and age that people of different personality types (Personality type A,B,C or X) are separated from each other to make people more comfortable. We created a program that allows for people of different personality types to be able to be themselves, while surrounded by people who share the same interests.  
