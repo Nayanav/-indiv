@@ -1,3 +1,4 @@
+{% include navigation.html %}
 ## Nayana's GitHub Page 
 
 <table>
