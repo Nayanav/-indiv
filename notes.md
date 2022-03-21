@@ -46,7 +46,7 @@ Technically not since that would mean we lose access to certain information and 
 * Computer biases can be elimated if programs are given a wider range of patterns to analyze 
 
 GitHub Pages Action: 
-White Wanda's movements are better recognized by the facial recognition software compared to Black Desi. I don't think they thought it was intentional, but they probably did think there was a lack of diversity in terms of the patterns the HP algorithim was exposed to and as a result can not detect POC people as well. I think this happened because HP was more likely exposed to 
+White Wanda's movements are better recognized by the facial recognition software compared to Black Desi. I don't think they thought it was intentional, but they probably did think there was a lack of diversity in terms of the patterns the HP algorithim was exposed to and as a result can not detect POC people as well. I think this happened because HP was more likely exposed to certain ranges of patters, and this could be fixed with more exposure to a variety of people and groups to recognize more patterns and not be biased toward minority groups. 
 
 
 #### 5.4 
@@ -58,4 +58,4 @@ White Wanda's movements are better recognized by the facial recognition software
 * Science has been expanded through citizen science --> many scientists contribute data of their research through their own computing devices
 
 GitHub Pages Actions: 
-White Wanda's movements are better recognized by the facial recognition software compared to Black Desi. I don't think they thought it was intentional, but they probably did think there was a lack of diversity in terms of the patterns the HP algorithim was exposed to and as a result can not detect POC people as well. I think this happened because HP was more likely exposed to 
+A crowdsource idea would be too record the behaviors of the various birds we see at lunch on campus and collecting it into the data collection. Del NOrte crowdsourcing could be in terms of age, race, gender, and grades. My project would need crowdsourcing because I would need diverse data to justify my website. 
