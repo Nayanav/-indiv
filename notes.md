@@ -30,3 +30,32 @@ GitHub Pages Action:
 By being open to sharing and learning knowledge and data that can allow themselves to understand multiple perspectives through digital devices.
 Help share digital devices to fellow peers who don't have access to them so they will be able to get the same learning opportunities as you.
 Technically not since that would mean we lose access to certain information and opportunities. Yes, these barriers are in schools and can be established at home too if the organization/place doesn't want users to be accessing certain information.
+
+
+
+#### 5.3
+* Computing innovation can still reflect biases that exist in society today
+* Algorithims are trained data sets and as a result may not include diversity 
+* Ways to fight potential bias
+      * People can be mindful of the potential for bias and make sure that it is unbiased and representative as possible
+
+* Example of computer bias facial recognition systems are usually trained on men in majority compared to women and minorities 
+* Algorithims pick up common patterns, but as a result, can make judgements considered biased, and leads to to certain groups facing unneseccary risks 
+* Some of this computer bias can be intentional or by accident 
+* It was found that Amazon's recruiting machines to hire was more biased against women 
+* Computer biases can be elimated if programs are given a wider range of patterns to analyze 
+
+GitHub Pages Action: 
+White Wanda's movements are better recognized by the facial recognition software compared to Black Desi. I don't think they thought it was intentional, but they probably did think there was a lack of diversity in terms of the patterns the HP algorithim was exposed to and as a result can not detect POC people as well. I think this happened because HP was more likely exposed to 
+
+
+#### 5.4 
+* Crowdsourcing is collecting opinions through data submitted on the internet from a variety of people
+* Citizen science: a term that describe scientific research that common population helps to conduct, an example of corwdsourcing 
+* Crowdfunding: GoFundME, Kickstarter, and Patreon are platforms where people can raise money 
+* Human capabilites can be improved and enhaced through collaboration, which possible through computing 
+* Crowdsourcing = new model for collaboration --> connecting buisnesses/social cause(s) funding 
+* Science has been expanded through citizen science --> many scientists contribute data of their research through their own computing devices
+
+GitHub Pages Actions: 
+White Wanda's movements are better recognized by the facial recognition software compared to Black Desi. I don't think they thought it was intentional, but they probably did think there was a lack of diversity in terms of the patterns the HP algorithim was exposed to and as a result can not detect POC people as well. I think this happened because HP was more likely exposed to 
