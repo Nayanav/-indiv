@@ -8,7 +8,10 @@
          <td><a href="create">Create Task Plan</a></td>
      </tr>
  </table>
-| Week        | Review Ticket |
-| ----------- | ------------- |
-| Week 0      | [Week 0 Review Ticket](https://github.com/Nayanav/indiv.github.io/issues/3)
-| Week 1      | [Week 1 Review Ticket](https://github.com/Nayanav/indiv.github.io/issues/1)
+
+
+
+|Week #|Ticket|
+|----|---------|
+|Week 0|Sign-Up Page + README|
+|Week 1|Home Page + Volunteer Page|
