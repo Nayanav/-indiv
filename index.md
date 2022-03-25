@@ -1,10 +1,6 @@
 ## Nayana's GitHub Page
 {% include navigation.html %}
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
 |Week #|Ticket|
 |----|---------|
