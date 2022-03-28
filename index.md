@@ -1,5 +1,5 @@
 ## Nayana's GitHub Page
-{% include navigation.html %
+{% include navigation.html %}
 
 
 |Week #|Ticket|
