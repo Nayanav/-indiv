@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
 
-# 5.3-5.4
+# *5.3-5.4*
 
 ## 5.3
 * Computing innovation can still reflect biases that exist in society today
@@ -32,7 +32,7 @@ A crowdsource idea would be too record the behaviors of the various birds we see
 
 
 
-# 5.1-5.2
+# *5.1-5.2*
 
 ## 5.1
 * The World Wide Web was invented in 1989 as a way for the scientific community to share information in a faster and easier way, and has since evolved greatly.
